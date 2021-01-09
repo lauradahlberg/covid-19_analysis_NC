@@ -12,9 +12,10 @@ January 8, 2021
 <br>
 
 ### Description
-In this repo, I set to explore covid data in Mecklenburg county to understand what's going on in my county and state. This is a work in process as I keep finding new questions to explore. 
+In this repo, I set to explore covid data in Mecklenburg county to understand what's going on in my county and state.<br> 
+This is a work in progress as I keep finding new questions to explore. 
 <br>
-#### Content:<br>
+#### "exploring_covid_mecknc_data" Content:<br>
 0. Reading Data
 1. Death Percentage by Age Bracket
    - 1.1 Monthly Death Percentage By Age Bracket Chart
@@ -36,7 +37,6 @@ In this repo, I set to explore covid data in Mecklenburg county to understand wh
 
 ### Libraries used
 
-* os <br>
 * shutil <br>
 * datetime <br>
 * dateutil<br>
@@ -49,9 +49,9 @@ In this repo, I set to explore covid data in Mecklenburg county to understand wh
 
 ### Data Used
 
-To perform data exploration of COVID-19 in Mecklenburg county, I created my own dataset, "weekly_covid19_report_mecknc.csv", 
-based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
+To perform data exploration of COVID-19 in Mecklenburg county, I have used two datasets. the "weekly_covid19_report_mecknc.csv" file was created based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
 The reports in this site are in PDF format. <br> 
-This dataset does not update automatically.<br> Dataset was last updated on 2020-12-27. 
+This dataset is in the data directory, and does not update automatically.<br> Dataset was last updated on 2020-12-27. <br>
+The other dataset was based on the CDC's COVID-19 Case Surveillance Restricted Access Detailed Data. To access this data set you need to request permission from the [CDC](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Restricted-Access-Detai/mbd7-r32t) 
 <br>
 <br>
