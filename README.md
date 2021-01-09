@@ -1,5 +1,4 @@
 <img src='images/covid19.jpg'/>
-<img src='images/pexels-cdc-3992933.jpg' style='width:200px; height:120px' align='right'/>
 
 ### Title: Exploring COVID-19 Data in Mecklenburg County 
 ---
@@ -17,18 +16,18 @@ In this repo, I focused on exploring 2020 data related to COVID-19 Deaths and ne
 <br>
 #### Content:<br>
 0. Reading Data
-- Death Percentage by Age Bracket
+1. Death Percentage by Age Bracket
    - 1.1 Monthly Death Percentage By Age Bracket Chart
-- Death Count - All Ages 
+2. Death Count - All Ages 
    - 2.1 Monthly Deaths - All Ages
-- Death Percentage - All Ages
-- New Cases
-- Deaths vs. New Cases
-- Deaths by Age Bracket
+3. Death Percentage - All Ages
+4. New Cases
+5. Deaths vs. New Cases
+6. Deaths by Age Bracket
     - 6.1 Total Deaths by Age Bracket
     - 6.2 Deaths by Age Bracket Throughout 2020
     - 6.3 Monthly Deaths by Age Bracket
-- Other Underlying Illness Conditions
+7. Other Underlying Illness Conditions
     - 7.1 Monthly Deaths With Underlying Illness Conditions vs Deaths Without
     - 7.2 Total Death Percentage and Count With and Without Other Underlying Conditions
 
