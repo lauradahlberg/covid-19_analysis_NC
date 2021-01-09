@@ -12,7 +12,7 @@ January 8, 2021
 <br>
 
 ### Description
-In this repo, I focused on exploring 2020 data related to COVID-19 Deaths and new cases in Mecklenburg County, North Carolina. 
+In this repo, I set to explore covid data in Mecklenburg county to understand what's going on in my county and state. This is a work in process as I keep finding new questions to explore. 
 <br>
 #### Content:<br>
 0. Reading Data
@@ -49,9 +49,9 @@ In this repo, I focused on exploring 2020 data related to COVID-19 Deaths and ne
 
 ### Data Used
 
-To perform exploration of COVID-19 data in Mecklenburg county, I created my own dataset, "weekly_covid19_report_mecknc.csv"
-The Data in this dataset was based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
-The reports in this site are in PDF format, so I had to pull the data manually. <br> 
+To perform data exploration of COVID-19 in Mecklenburg county, I created my own dataset, "weekly_covid19_report_mecknc.csv", 
+based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
+The reports in this site are in PDF format. <br> 
 This dataset does not update automatically.<br> Dataset was last updated on 2020-12-27. 
 <br>
 <br>
