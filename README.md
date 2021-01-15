@@ -51,9 +51,10 @@ This is a work in progress as I keep finding new questions to explore.
 
 ### About the Data
 
-To perform data exploration of COVID-19 in Mecklenburg county, I have used two datasets. The "weekly_covid19_report_mecknc.csv" file was created based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
-The reports in this site are in PDF format. <br> 
-This dataset is in the data directory, and does not update automatically.<br> Dataset was last updated on 2020-12-27. <br>
+To perform data exploration of COVID-19 in Mecklenburg county, I have used two datasets.<br> 
+The "weekly_covid19_report_mecknc.csv" file was created based on the Mecknc.gov COVID-19 reports from [Mecklenburg County COVID-19 Data Releases](https://www.mecknc.gov/news/Pages/COVID-19-Data-Dashboard.aspx)<br>
+The reports in the mecknc.gov site are in PDF format. <br> 
+This dataset is updated from time to time.<br> 
 <br>
 The other dataset (MECK_COVID_Cases_Restricted_Detailed_12312020.csv), was based on the "Centers for Disease Control and Prevention, COVID-19 Response. COVID-19 Case Surveillance Data Access, Summary, and Limitations (version 12-31-2020)" To access this dataset you need to request permission from the [CDC](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Restricted-Access-Detai/mbd7-r32t) <br>
 CDC disclosure: "The CDC does not take responsibility for the scientific validity or accuracy of methodology, results, statistical analyses, or conclusions presented."   
