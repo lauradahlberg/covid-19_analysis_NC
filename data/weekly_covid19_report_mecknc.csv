@@ -75,3 +75,6 @@ date,cases_cum_count,new_0_19_pct,new_20_39_pct,new_40_59_pct,new_60_pct,new_0_1
 2020-12-16,53194,15.6,43.4,28.2,12.7,NaN,NaN,NaN,NaN,502,252,less than 1,NaN,NaN,NaN,NaN,0,2.4,24,73.6,0,7,67,8
 2020-12-20,56044,15.6,43.3,28.3,12.8,NaN,NaN,NaN,NaN,514,258,less than 1,NaN,NaN,NaN,NaN,0,2.3,23.4,74.2,0,7,67,8
 2020-12-27,60337,15.4,43.1,28.4,13.1,NaN,NaN,NaN,NaN,552,272,less than 1,NaN,NaN,NaN,NaN,0,2.1,21.4,76.4,0,7,68,10
+2021-01-03,65497,15.4,42.7,28.4,13.5,nan,NaN,NaN,NaN,583,281,less than 1,NaN,NaN,NaN,NaN,0,2,21.2,76.8,0,7,72,13
+2021-01-06,67623,15.4,42.6,28.4,13.6,nan,NaN,NaN,NaN,606,291,less than 1,NaN,NaN,NaN,NaN,0,2.2,20.6,77.1,0,9,73,15
+2021-01-10,71775,15.4,42.6,28.4,13.6,nan,NaN,NaN,NaN,640,305,less than 1,NaN,NaN,NaN,NaN,0,2.4,20.9,76.7,0,10,79,16
